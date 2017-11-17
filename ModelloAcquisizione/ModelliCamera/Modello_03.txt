@@ -1,0 +1,16 @@
+PARAMETRI SENSORE:
+sensorSize:50:80
+Resolution:1080:980
+focalLength:1
+ShutterSpeed:10
+DiametroLente:1
+f-number:1
+ISO:1
+PARAMETRI PROGETTO:
+HdaTerra(Z):10
+MaxDisplacementX:1
+MaxDisplacementY:1
+CofC(b):1
+ErrTollerance(Z):1
+Sampling Time:1
+boh:5

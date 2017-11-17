@@ -1,0 +1,5 @@
+sensorSize: 200:300
+Resolution: 1080:980
+altezzaDaTerra(Z): 35
+focalLength: 5
+boh: 5

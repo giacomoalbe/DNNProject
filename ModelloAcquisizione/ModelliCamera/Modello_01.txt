@@ -1,0 +1,4 @@
+sensorSize : 120:300
+Resolution : 1080:980
+focalLength: 5
+altezzaDaTerra: 35

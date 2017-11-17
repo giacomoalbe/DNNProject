@@ -1,0 +1,14 @@
+% Centro
+x  = 3000;
+y  = 3000;
+% Raggio
+r = 2000;
+
+
+th = 0:pi/180:2*pi-pi/180;
+xunit = r * cos(th) + x;
+yunit = r * sin(th) + y;
+datapath = [xunit',yunit',th'];
+size(datapath)
+
+fileID = fopen('CircleData.txt',')
